@@ -23,7 +23,7 @@ default-features = false
 features = ["build", "git", "gitcl",]
 
 [dependencies]
-arboard = "3.2.0"
+arboard = "3.2.1"
 bitflags = "^2.3"
 chrono = "0.4"
 clap = {version = "~4.3", features = ["derive"]}
