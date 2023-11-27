@@ -26,7 +26,7 @@ features = ["build", "git", "gitcl",]
 arboard = "3.2.1"
 bitflags = "^2.3"
 chrono = "0.4.31"
-clap = {version = "~4.3", features = ["derive"]}
+clap = {version = "~4.4", features = ["derive"]}
 comrak = {version = "0.18.0", features = ["shortcodes"]}
 css-color-parser2 = "1.0.1"
 dirs = "5.0.1"
