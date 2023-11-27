@@ -42,7 +42,7 @@ mime = "^0.3.16"
 mime_guess = "^2.0.4"
 modalkit = "0.0.16"
 open = "5.0.0"
-ratatui-image = { version = "1.65.0", features = ["serde"] }
+ratatui-image = { version = "0.4.3", features = ["serde"] }
 regex = "^1.5"
 rpassword = "^7.2"
 serde = "^1.0"
