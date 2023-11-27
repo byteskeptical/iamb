@@ -25,7 +25,7 @@ features = ["build", "git", "gitcl",]
 [dependencies]
 arboard = "3.2.1"
 bitflags = "^2.3"
-chrono = "0.4"
+chrono = "0.4.31"
 clap = {version = "~4.3", features = ["derive"]}
 comrak = {version = "0.18.0", features = ["shortcodes"]}
 css-color-parser2 = "1.0.1"
@@ -42,7 +42,7 @@ mime = "^0.3.16"
 mime_guess = "^2.0.4"
 modalkit = "0.0.16"
 open = "5.0.0"
-ratatui-image = { version = "0.4.3", features = ["serde"] }
+ratatui-image = { version = "1.65.0", features = ["serde"] }
 regex = "^1.5"
 rpassword = "^7.2"
 serde = "^1.0"
