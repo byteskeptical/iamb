@@ -39,6 +39,7 @@ libc = "0.2"
 markup5ever_rcdom = "0.2.0"
 mime = "^0.3.16"
 mime_guess = "^2.0.4"
+modalkit = "0.0.16"
 open = "3.2.0"
 ratatui-image = { version = "0.4.3", features = ["serde"] }
 regex = "^1.5"
@@ -53,11 +54,6 @@ unicode-segmentation = "^1.7"
 unicode-width = "0.1.10"
 url = {version = "^2.2.2", features = ["serde"]}
 edit = "0.1.4"
-
-[dependencies.modalkit]
-# version = "0.0.16"
-git = "https://github.com/ulyssa/modalkit"
-rev = "f9f0517ed6a6152c1eab36d2e71b11f38831d5e6"
 
 [dependencies.matrix-sdk]
 version = "^0.6.2"
